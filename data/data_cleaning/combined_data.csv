@@ -1,0 +1,1295 @@
+id,separation_type,cease_date,employment_status,career_move_to_public_sector,career_move_to_private_sector,interpersonal_conflicts,job_dissatisfaction,maternity_family,ill_health,gender,age,length_of_service,dataset
+1,Retirement,2012.0,Permanent Full-time,True,False,False,True,False,False,Male,56 or older,More than 20 years,dete
+3,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,1-2,dete
+4,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,36-40,7-10,dete
+5,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+6,Resignation,2012.0,Permanent Full-time,False,True,False,False,True,False,Female,41-45,11-20,dete
+7,Retirement,2012.0,Permanent Part-time,False,False,False,True,False,False,Female,56 or older,More than 20 years,dete
+8,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+9,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,31-35,3-4,dete
+10,Resignation,2012.0,Permanent Part-time,False,False,True,True,False,False,Female,46-50,11-20,dete
+11,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,56 or older,11-20,dete
+12,Resignation,2012.0,Permanent Full-time,False,False,False,False,True,False,Male,31-35,3-4,dete
+13,Resignation,2012.0,Permanent Full-time,False,False,False,False,True,False,Female,36-40,11-20,dete
+14,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+15,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,31-35,5-6,dete
+16,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,11-20,dete
+18,Retirement,2012.0,Permanent Full-time,False,False,False,False,True,False,Female,56 or older,11-20,dete
+19,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,5-6,dete
+20,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+21,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+22,Resignation,2012.0,Permanent Part-time,False,False,True,False,False,False,Female,51-55,More than 20 years,dete
+23,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,46-50,11-20,dete
+24,Resignation,2012.0,Permanent Full-time,False,False,False,True,True,False,Female,56 or older,More than 20 years,dete
+25,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+26,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,11-20,dete
+27,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+28,Resignation,2012.0,Permanent Full-time,True,False,False,False,False,False,Female,21-25,7-10,dete
+29,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+30,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+31,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,True,Female,56 or older,More than 20 years,dete
+32,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+33,Retirement,2012.0,Permanent Full-time,False,False,True,False,False,True,Male,56 or older,More than 20 years,dete
+34,Resignation,2012.0,Permanent Full-time,False,False,True,False,False,False,Male,36-40,7-10,dete
+35,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,5-6,dete
+36,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Female,51-55,11-20,dete
+38,Resignation,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,21-25,1-2,dete
+39,Other,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+41,Resignation,2012.0,Permanent Full-time,True,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+42,Resignation,2012.0,Permanent Full-time,False,False,True,False,False,False,Female,51-55,More than 20 years,dete
+43,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,1-2,dete
+44,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,51-55,More than 20 years,dete
+45,Retirement,2012.0,Permanent Part-time,False,True,False,False,False,False,Female,51-55,More than 20 years,dete
+46,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Female,46-50,11-20,dete
+47,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,3-4,dete
+48,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+49,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,21-25,3-4,dete
+50,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+51,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,21-25,3-4,dete
+52,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+53,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+55,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,True,Female,56 or older,More than 20 years,dete
+56,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,26-30,3-4,dete
+57,Retirement,2012.0,Permanent Part-time,False,False,False,True,False,False,Female,56 or older,More than 20 years,dete
+58,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Male,46-50,7-10,dete
+59,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,True,Female,51-55,More than 20 years,dete
+61,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,46-50,More than 20 years,dete
+62,Resignation,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,31-35,1-2,dete
+63,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+64,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,dete
+65,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,56 or older,More than 20 years,dete
+66,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+67,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+70,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,36-40,5-6,dete
+71,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+72,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,36-40,1-2,dete
+74,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,26-30,3-4,dete
+75,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+76,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,26-30,1-2,dete
+77,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+78,Termination,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,51-55,5-6,dete
+79,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,21-25,3-4,dete
+80,Termination,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,26-30,5-6,dete
+81,Contract Expired,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+82,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,21-25,1-2,dete
+83,Retirement,2012.0,Permanent Full-time,False,False,True,True,False,False,Female,51-55,More than 20 years,dete
+84,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,41-45,1-2,dete
+85,Termination,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,56 or older,1-2,dete
+86,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+87,Termination,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,56 or older,1-2,dete
+88,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,26-30,5-6,dete
+89,Termination,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,46-50,7-10,dete
+90,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+91,Resignation,2012.0,Permanent Part-time,True,False,False,False,False,False,Female,41-45,More than 20 years,dete
+92,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,dete
+93,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+94,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,41-45,7-10,dete
+95,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+96,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,51-55,More than 20 years,dete
+97,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+98,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+99,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,7-10,dete
+100,Resignation,2012.0,Permanent Full-time,False,False,False,False,True,False,Male,31-35,1-2,dete
+101,Resignation,2012.0,Permanent Part-time,False,False,False,True,False,False,Female,36-40,5-6,dete
+102,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+103,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,7-10,dete
+104,Resignation,2012.0,Permanent Part-time,False,False,False,True,False,False,Female,51-55,7-10,dete
+105,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+106,Retirement,2012.0,Permanent Part-time,False,False,False,True,False,False,Female,56 or older,11-20,dete
+108,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,11-20,dete
+109,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,31-35,3-4,dete
+110,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+111,Retirement,2012.0,Permanent Part-time,False,False,False,True,False,True,Female,56 or older,More than 20 years,dete
+112,Resignation,2012.0,Permanent Full-time,True,False,False,False,False,False,Female,26-30,7-10,dete
+113,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,5-6,dete
+114,Retirement,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,56 or older,3-4,dete
+115,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,41-45,11-20,dete
+116,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+117,Resignation,2012.0,Permanent Full-time,False,False,True,False,False,False,Male,56 or older,More than 20 years,dete
+118,Retirement,2012.0,Permanent Part-time,False,False,False,True,False,False,Female,56 or older,More than 20 years,dete
+119,Resignation,2012.0,Permanent Full-time,True,False,False,False,False,False,Female,46-50,1-2,dete
+120,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,31-35,3-4,dete
+121,Termination,2012.0,Temporary Full-time,False,False,False,True,False,False,Female,26-30,3-4,dete
+123,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+125,Resignation,2012.0,Permanent Part-time,False,True,False,False,False,False,Female,36-40,Less than 1 year,dete
+126,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+127,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,51-55,More than 20 years,dete
+128,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+129,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+130,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+131,Resignation,2012.0,Temporary Full-time,True,False,False,True,False,False,Male,51-55,Less than 1 year,dete
+132,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+133,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,5-6,dete
+135,Retirement,2012.0,Permanent Full-time,False,True,False,False,False,False,Male,46-50,More than 20 years,dete
+136,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+138,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+139,Resignation,2012.0,Permanent Part-time,False,True,False,False,False,False,Female,41-45,7-10,dete
+140,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,dete
+142,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,dete
+143,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+145,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+146,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,True,Male,56 or older,5-6,dete
+148,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Male,26-30,7-10,dete
+149,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+150,Other,2012.0,Permanent Full-time,False,True,False,True,False,False,Female,26-30,3-4,dete
+151,Termination,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+153,Other,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,36-40,11-20,dete
+154,Termination,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,7-10,dete
+155,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+156,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,21-25,5-6,dete
+157,Other,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,26-30,5-6,dete
+158,Other,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,21-25,3-4,dete
+159,Resignation,2012.0,Temporary Part-time,True,False,False,False,False,False,Male,21-25,1-2,dete
+160,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+161,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,7-10,dete
+162,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+163,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,5-6,dete
+164,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+165,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,41-45,7-10,dete
+166,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,26-30,7-10,dete
+167,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,46-50,11-20,dete
+168,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,7-10,dete
+169,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,3-4,dete
+171,Other,2012.0,Permanent Full-time,False,False,True,True,False,False,Female,46-50,3-4,dete
+172,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,46-50,More than 20 years,dete
+174,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,7-10,dete
+175,Retirement,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,31-35,5-6,dete
+176,Retirement,2012.0,Permanent Part-time,False,False,False,False,True,False,Female,26-30,7-10,dete
+178,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,26-30,11-20,dete
+179,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,41-45,11-20,dete
+180,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,Less than 1 year,dete
+181,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,26-30,1-2,dete
+182,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,31-35,5-6,dete
+183,Other,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,51-55,1-2,dete
+184,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+185,Other,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,5-6,dete
+186,Resignation,2012.0,Permanent Part-time,False,False,False,False,True,False,Female,31-35,7-10,dete
+187,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+188,Retirement,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,5-6,dete
+189,Other,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,5-6,dete
+190,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,41-45,5-6,dete
+191,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,56 or older,More than 20 years,dete
+192,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+193,Resignation,2012.0,Permanent Full-time,False,False,True,False,False,False,Female,46-50,11-20,dete
+194,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,31-35,11-20,dete
+195,Retirement,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,56 or older,More than 20 years,dete
+196,Resignation,2012.0,Permanent Full-time,True,False,False,False,False,False,Female,46-50,More than 20 years,dete
+198,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,31-35,7-10,dete
+199,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,True,Female,46-50,More than 20 years,dete
+200,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,7-10,dete
+201,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+202,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+204,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+205,Resignation,2012.0,Permanent Part-time,False,True,False,False,False,False,Female,21-25,3-4,dete
+206,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,36-40,5-6,dete
+207,Termination,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,51-55,More than 20 years,dete
+209,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+210,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,True,Female,46-50,11-20,dete
+211,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,5-6,dete
+212,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+213,Resignation,2012.0,Permanent Part-time,False,False,False,True,False,False,Male,56 or older,More than 20 years,dete
+216,Termination,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,51-55,More than 20 years,dete
+217,Retirement,2013.0,Permanent Full-time,False,False,False,True,False,False,Female,51-55,More than 20 years,dete
+218,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,11-20,dete
+219,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,True,Female,51-55,11-20,dete
+220,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+221,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,5-6,dete
+222,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+223,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,36-40,1-2,dete
+225,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,3-4,dete
+226,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+227,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,26-30,1-2,dete
+228,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,46-50,11-20,dete
+229,Resignation,2012.0,Permanent Part-time,False,False,False,False,True,False,Male,56 or older,11-20,dete
+230,Retirement,2012.0,Temporary Part-time,False,False,False,False,True,False,Female,56 or older,3-4,dete
+231,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+232,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+233,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,More than 20 years,dete
+234,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,46-50,More than 20 years,dete
+235,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+236,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,21-25,3-4,dete
+237,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+238,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,11-20,dete
+239,Retirement,2012.0,Permanent Part-time,False,True,False,False,False,False,Male,51-55,More than 20 years,dete
+240,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+241,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+242,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,11-20,dete
+243,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,51-55,More than 20 years,dete
+244,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+245,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+246,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+247,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+248,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,26-30,5-6,dete
+249,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,31-35,1-2,dete
+250,Contract Expired,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,46-50,1-2,dete
+251,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,26-30,7-10,dete
+252,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+253,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,1-2,dete
+254,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+255,Resignation,2012.0,Permanent Part-time,False,True,False,False,True,False,Female,31-35,11-20,dete
+256,Resignation,2012.0,Permanent Part-time,False,True,False,False,False,False,Female,46-50,3-4,dete
+257,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,46-50,7-10,dete
+258,Resignation,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,21-25,Less than 1 year,dete
+259,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,5-6,dete
+260,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,41-45,3-4,dete
+261,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+262,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,1-2,dete
+263,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Male,36-40,1-2,dete
+264,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,21-25,3-4,dete
+265,Resignation,2012.0,Permanent Part-time,False,False,False,False,True,False,Female,20 or younger,1-2,dete
+266,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,5-6,dete
+267,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+268,Resignation,2012.0,Permanent Part-time,False,False,False,False,True,False,Female,36-40,1-2,dete
+269,Resignation,2012.0,Permanent Full-time,False,False,False,False,True,False,Female,31-35,1-2,dete
+270,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,26-30,1-2,dete
+271,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+272,Termination,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,56 or older,More than 20 years,dete
+273,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,dete
+274,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+275,Resignation,2013.0,Temporary Part-time,False,True,False,False,False,False,Female,36-40,1-2,dete
+276,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+277,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+278,Retirement,2012.0,Permanent Part-time,False,False,False,True,False,False,Female,56 or older,11-20,dete
+279,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,31-35,3-4,dete
+280,Resignation,2012.0,Permanent Part-time,False,False,True,False,False,True,Female,56 or older,11-20,dete
+281,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+282,Retirement,2013.0,Permanent Full-time,False,False,True,True,False,False,Female,51-55,More than 20 years,dete
+283,Retirement,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,7-10,dete
+284,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,5-6,dete
+285,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,31-35,5-6,dete
+287,Resignation,2012.0,Permanent Part-time,False,True,False,False,False,False,Female,36-40,Less than 1 year,dete
+288,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,7-10,dete
+290,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+291,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,11-20,dete
+295,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+296,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+297,Resignation,2012.0,Permanent Part-time,False,True,False,False,False,False,Male,41-45,5-6,dete
+298,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+299,Other,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,21-25,1-2,dete
+300,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+301,Resignation,2012.0,Permanent Part-time,False,True,False,False,False,False,Female,51-55,11-20,dete
+303,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+304,Resignation,2012.0,Permanent Part-time,False,False,False,True,False,False,Male,51-55,7-10,dete
+305,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,46-50,3-4,dete
+306,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,41-45,1-2,dete
+307,Contract Expired,2012.0,Contract/casual,False,False,False,False,False,False,Male,21-25,1-2,dete
+308,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,5-6,dete
+309,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,51-55,More than 20 years,dete
+310,Retirement,2012.0,Permanent Full-time,False,False,True,False,False,False,Female,51-55,More than 20 years,dete
+311,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+312,Resignation,2013.0,Permanent Full-time,False,False,False,True,False,False,Male,36-40,11-20,dete
+313,Resignation,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,36-40,11-20,dete
+314,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+315,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Female,36-40,11-20,dete
+318,Resignation,2012.0,Permanent Full-time,False,True,True,False,False,False,Male,41-45,More than 20 years,dete
+319,Resignation,2012.0,Permanent Part-time,False,False,False,True,False,False,Female,46-50,Less than 1 year,dete
+320,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+321,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,26-30,1-2,dete
+322,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+323,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Male,26-30,5-6,dete
+324,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,11-20,dete
+325,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,21-25,1-2,dete
+326,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,46-50,11-20,dete
+327,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,3-4,dete
+328,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+329,Retirement,2013.0,Permanent Full-time,False,False,False,False,True,False,Female,56 or older,More than 20 years,dete
+331,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+332,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+333,Resignation,2012.0,Permanent Full-time,False,False,True,False,False,False,Female,21-25,1-2,dete
+334,Resignation,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,51-55,Less than 1 year,dete
+335,Retirement,2013.0,Permanent Full-time,False,False,False,True,False,False,Male,51-55,More than 20 years,dete
+336,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,21-25,Less than 1 year,dete
+338,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,51-55,More than 20 years,dete
+339,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+341,Resignation,2013.0,Permanent Full-time,False,False,False,False,True,False,Male,26-30,7-10,dete
+342,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+343,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+345,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+346,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,41-45,More than 20 years,dete
+348,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,36-40,3-4,dete
+349,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+351,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+352,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+354,Other,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,7-10,dete
+355,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Male,26-30,5-6,dete
+356,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+357,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,31-35,7-10,dete
+358,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+359,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+360,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+361,Contract Expired,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,46-50,5-6,dete
+362,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+363,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+364,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+367,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Male,21-25,3-4,dete
+368,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,21-25,1-2,dete
+369,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+370,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+371,Contract Expired,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,26-30,Less than 1 year,dete
+372,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,Less than 1 year,dete
+374,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+375,Resignation,2012.0,Permanent Full-time,False,False,False,False,True,False,Female,41-45,11-20,dete
+376,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,46-50,11-20,dete
+377,Resignation,2012.0,Permanent Part-time,False,False,False,False,True,False,Female,46-50,5-6,dete
+378,Resignation,2012.0,Permanent Part-time,False,False,False,True,False,False,Female,46-50,More than 20 years,dete
+379,Retirement,2013.0,Permanent Full-time,False,False,False,True,False,False,Male,51-55,More than 20 years,dete
+381,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+382,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,5-6,dete
+383,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,7-10,dete
+384,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+385,Contract Expired,2013.0,Temporary Full-time,False,False,False,True,False,False,Male,36-40,1-2,dete
+386,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+387,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Male,51-55,More than 20 years,dete
+388,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+389,Resignation,2013.0,Permanent Full-time,True,False,False,False,False,False,Female,46-50,5-6,dete
+390,Resignation,2013.0,Permanent Full-time,True,False,False,False,False,False,Female,46-50,More than 20 years,dete
+391,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Female,46-50,11-20,dete
+392,Resignation,2012.0,Permanent Full-time,False,True,True,True,False,False,Female,31-35,5-6,dete
+393,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+394,Other,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,46-50,3-4,dete
+395,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+396,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+397,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+398,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+399,Resignation,2012.0,Permanent Part-time,False,False,False,False,True,False,Female,41-45,11-20,dete
+401,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+402,Retirement,2013.0,Permanent Part-time,False,False,False,True,False,False,Female,56 or older,11-20,dete
+403,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+404,Termination,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,46-50,5-6,dete
+405,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+407,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+409,Resignation,2012.0,Permanent Full-time,False,True,True,True,True,False,Female,26-30,5-6,dete
+411,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,26-30,5-6,dete
+413,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,41-45,5-6,dete
+414,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+415,Resignation,2013.0,Permanent Full-time,True,False,False,False,False,False,Female,41-45,11-20,dete
+416,Resignation,2013.0,Permanent Full-time,True,False,True,False,False,False,Male,26-30,1-2,dete
+417,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+418,Resignation,2013.0,Permanent Part-time,False,True,False,False,False,False,Female,41-45,5-6,dete
+420,Resignation,2013.0,Temporary Part-time,False,False,False,False,False,False,Female,41-45,1-2,dete
+421,Retirement,2013.0,Permanent Full-time,False,False,False,False,True,False,Female,56 or older,More than 20 years,dete
+422,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+423,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,7-10,dete
+424,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,31-35,5-6,dete
+425,Other,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+427,Other,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,46-50,3-4,dete
+428,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+429,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+430,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+431,Other,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,7-10,dete
+432,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,11-20,dete
+433,Resignation,2013.0,Permanent Full-time,False,False,False,True,False,False,Female,26-30,5-6,dete
+434,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,46-50,11-20,dete
+435,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,7-10,dete
+436,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,7-10,dete
+437,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,46-50,More than 20 years,dete
+438,Resignation,2013.0,Permanent Full-time,False,False,False,True,False,True,Female,31-35,11-20,dete
+440,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+441,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+442,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,31-35,3-4,dete
+444,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+445,Retirement,2013.0,Permanent Full-time,False,False,False,True,False,False,Female,56 or older,More than 20 years,dete
+446,Retirement,2012.0,Permanent Part-time,False,False,True,False,False,False,Male,56 or older,11-20,dete
+447,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+448,Termination,2012.0,Temporary Full-time,False,True,False,False,False,False,Male,31-35,1-2,dete
+449,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,7-10,dete
+451,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+452,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,21-25,3-4,dete
+453,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,41-45,More than 20 years,dete
+455,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,Less than 1 year,dete
+456,Other,2013.0,Permanent Full-time,False,False,False,True,False,True,Female,26-30,3-4,dete
+457,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,21-25,Less than 1 year,dete
+458,Retirement,2013.0,Permanent Full-time,False,False,False,True,False,True,Female,56 or older,More than 20 years,dete
+459,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+460,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Female,36-40,1-2,dete
+461,Termination,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,3-4,dete
+462,Resignation,2013.0,Permanent Part-time,False,True,False,False,False,False,Female,51-55,3-4,dete
+463,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+464,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,41-45,More than 20 years,dete
+465,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,36-40,11-20,dete
+466,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+467,Resignation,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,41-45,11-20,dete
+469,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,11-20,dete
+470,Other,2013.0,Permanent Full-time,False,True,False,False,False,False,Female,21-25,3-4,dete
+471,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,46-50,More than 20 years,dete
+473,Retirement,2013.0,Permanent Full-time,False,False,False,True,False,False,Female,56 or older,More than 20 years,dete
+474,Resignation,2013.0,Permanent Part-time,False,False,False,True,False,False,Female,51-55,11-20,dete
+476,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,7-10,dete
+477,Resignation,2013.0,Contract/casual,False,False,False,False,False,False,Male,51-55,5-6,dete
+478,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,46-50,7-10,dete
+479,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+480,Resignation,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,26-30,Less than 1 year,dete
+481,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+482,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Male,41-45,More than 20 years,dete
+483,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+484,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+485,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+486,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,46-50,7-10,dete
+487,Resignation,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,41-45,11-20,dete
+488,Retirement,2012.0,Permanent Part-time,False,False,True,False,False,True,Female,56 or older,11-20,dete
+489,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+491,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+492,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+494,Other,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+495,Resignation,2012.0,Permanent Part-time,False,True,False,True,False,False,Female,56 or older,More than 20 years,dete
+496,Resignation,2013.0,Permanent Part-time,False,True,False,False,False,False,Female,46-50,1-2,dete
+497,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Male,51-55,1-2,dete
+498,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,36-40,3-4,dete
+499,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,51-55,11-20,dete
+500,Resignation,2013.0,Temporary Full-time,False,False,False,False,True,False,Female,26-30,Less than 1 year,dete
+501,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Female,31-35,11-20,dete
+503,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+504,Resignation,2013.0,Permanent Full-time,False,False,False,True,False,False,Male,56 or older,More than 20 years,dete
+505,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Male,36-40,5-6,dete
+506,Resignation,2013.0,Permanent Full-time,False,False,False,False,True,False,Female,46-50,More than 20 years,dete
+507,Resignation,2013.0,Permanent Full-time,True,False,False,False,False,True,Female,21-25,3-4,dete
+508,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,46-50,More than 20 years,dete
+510,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Male,51-55,11-20,dete
+511,Other,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,36-40,Less than 1 year,dete
+512,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+513,Retirement,2014.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+514,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+515,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,7-10,dete
+516,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+517,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+519,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+521,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,51-55,11-20,dete
+522,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+523,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,11-20,dete
+524,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+525,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+526,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+527,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+528,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+529,Retirement,2012.0,Permanent Part-time,False,False,False,True,False,True,Male,56 or older,More than 20 years,dete
+533,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+534,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Male,36-40,11-20,dete
+535,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,3-4,dete
+536,Retirement,2013.0,Permanent Full-time,False,False,False,False,True,False,Female,56 or older,More than 20 years,dete
+537,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,46-50,5-6,dete
+538,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+540,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,5-6,dete
+541,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,46-50,11-20,dete
+542,Resignation,2013.0,Permanent Part-time,False,False,False,True,False,False,Female,41-45,11-20,dete
+543,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,7-10,dete
+544,Resignation,2013.0,Permanent Full-time,True,False,False,False,True,False,Female,21-25,1-2,dete
+545,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+546,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+547,Other,2013.0,Permanent Part-time,False,False,False,False,True,True,Male,56 or older,3-4,dete
+548,Resignation,2013.0,Permanent Full-time,True,False,False,True,False,False,Female,41-45,3-4,dete
+549,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+550,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,51-55,More than 20 years,dete
+551,Resignation,2013.0,Permanent Full-time,False,False,False,False,True,False,Male,36-40,11-20,dete
+552,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,41-45,1-2,dete
+553,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,7-10,dete
+554,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+556,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+557,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+558,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,21-25,1-2,dete
+559,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,7-10,dete
+560,Retirement,2013.0,Permanent Part-time,False,False,True,False,False,False,Female,56 or older,11-20,dete
+561,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+562,Retirement,2013.0,Permanent Full-time,False,False,True,False,False,False,Male,56 or older,More than 20 years,dete
+563,Resignation,2013.0,Permanent Part-time,False,True,False,False,False,False,Female,41-45,1-2,dete
+564,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,41-45,More than 20 years,dete
+565,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+566,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+567,Retirement,2013.0,Permanent Full-time,False,False,False,True,False,False,Male,56 or older,More than 20 years,dete
+569,Resignation,2013.0,Permanent Part-time,False,True,False,False,True,False,Female,46-50,11-20,dete
+570,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,31-35,3-4,dete
+571,Other,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,7-10,dete
+572,Resignation,2013.0,Permanent Full-time,True,False,False,False,False,False,Female,41-45,11-20,dete
+574,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,41-45,3-4,dete
+575,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+576,Resignation,2013.0,Permanent Full-time,False,False,False,False,True,False,Female,31-35,7-10,dete
+577,Resignation,2013.0,Permanent Part-time,False,True,False,False,True,False,Female,26-30,7-10,dete
+578,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,11-20,dete
+579,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,11-20,dete
+580,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,11-20,dete
+581,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+582,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+583,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,11-20,dete
+584,Retirement,2013.0,Permanent Full-time,False,False,True,True,False,False,Female,56 or older,More than 20 years,dete
+585,Resignation,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,51-55,5-6,dete
+586,Resignation,2013.0,Temporary Full-time,False,False,False,False,False,False,Female,21-25,1-2,dete
+587,Resignation,2010.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+588,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+589,Resignation,2013.0,Temporary Part-time,False,False,False,False,False,False,Male,31-35,1-2,dete
+590,Resignation,2013.0,Permanent Full-time,False,False,True,False,False,False,Male,56 or older,More than 20 years,dete
+591,Resignation,2014.0,Permanent Full-time,False,False,False,False,False,False,Female,31-35,7-10,dete
+592,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,51-55,11-20,dete
+593,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+594,Resignation,2013.0,Permanent Full-time,False,False,False,True,True,True,Female,36-40,7-10,dete
+596,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+597,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+598,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+599,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+600,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+601,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+602,Resignation,2013.0,Permanent Full-time,False,False,True,True,False,False,Female,26-30,3-4,dete
+603,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,5-6,dete
+604,Contract Expired,2013.0,Temporary Full-time,False,False,False,False,False,False,Female,36-40,Less than 1 year,dete
+605,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,11-20,dete
+606,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+607,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+608,Resignation,2013.0,Permanent Part-time,False,False,False,True,False,False,Female,31-35,7-10,dete
+609,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,31-35,7-10,dete
+610,Retirement,2012.0,Temporary Part-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,dete
+611,Resignation,2013.0,Permanent Part-time,False,False,False,True,False,False,Female,56 or older,More than 20 years,dete
+612,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,dete
+613,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,51-55,11-20,dete
+614,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,26-30,3-4,dete
+615,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+616,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Male,51-55,11-20,dete
+617,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+618,Resignation,2013.0,Permanent Part-time,False,False,False,True,False,False,Female,51-55,11-20,dete
+619,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+620,Resignation,2013.0,Permanent Part-time,False,True,False,False,False,False,Female,36-40,7-10,dete
+621,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+622,Resignation,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,51-55,More than 20 years,dete
+623,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,11-20,dete
+624,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,7-10,dete
+625,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+626,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,1-2,dete
+627,Resignation,2013.0,Permanent Part-time,False,True,False,True,False,False,Female,26-30,3-4,dete
+628,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,11-20,dete
+629,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+630,Retirement,2013.0,Permanent Part-time,False,False,True,False,False,False,Female,56 or older,More than 20 years,dete
+631,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,5-6,dete
+632,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,True,Male,41-45,7-10,dete
+633,Contract Expired,2013.0,Temporary Part-time,False,False,False,False,False,False,Female,56 or older,1-2,dete
+634,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+635,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+636,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+637,Retirement,2014.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+638,Resignation,2013.0,Contract/casual,False,False,False,False,False,False,Female,36-40,Less than 1 year,dete
+639,Retirement,2014.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+640,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+641,Other,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,41-45,5-6,dete
+642,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,36-40,3-4,dete
+643,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,31-35,3-4,dete
+644,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+645,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+646,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+647,Retirement,2013.0,Permanent Full-time,False,False,False,True,False,False,Male,51-55,More than 20 years,dete
+648,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,51-55,More than 20 years,dete
+649,Other,2013.0,Permanent Part-time,False,True,False,True,False,False,Female,51-55,3-4,dete
+650,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Female,51-55,11-20,dete
+651,Resignation,2013.0,Permanent Full-time,False,True,True,False,False,False,Female,56 or older,11-20,dete
+652,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,3-4,dete
+653,Resignation,2013.0,Permanent Full-time,False,False,False,False,True,False,Female,56 or older,More than 20 years,dete
+654,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+655,Retirement,2014.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+656,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,dete
+657,Other,2013.0,Temporary Part-time,False,False,False,False,True,False,Female,26-30,1-2,dete
+658,Retirement,2013.0,Permanent Part-time,False,False,False,False,True,True,Female,51-55,More than 20 years,dete
+660,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,41-45,11-20,dete
+662,Retirement,2014.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+665,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+666,Resignation,2014.0,Permanent Full-time,True,False,False,False,False,False,Male,46-50,11-20,dete
+668,Resignation,2014.0,Temporary Full-time,False,True,False,False,False,False,Male,21-25,1-2,dete
+669,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,1-2,dete
+671,Resignation,2013.0,Temporary Full-time,False,True,False,True,False,False,Female,26-30,Less than 1 year,dete
+672,Resignation,2013.0,Temporary Full-time,False,False,False,False,False,False,Female,21-25,Less than 1 year,dete
+673,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Female,41-45,3-4,dete
+674,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+675,Contract Expired,2013.0,Temporary Part-time,False,False,False,False,False,False,Female,56 or older,1-2,dete
+676,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,51-55,More than 20 years,dete
+677,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+678,Resignation,2014.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,3-4,dete
+679,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,More than 20 years,dete
+680,Resignation,2013.0,Contract/casual,False,False,False,False,False,False,Female,36-40,1-2,dete
+681,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+682,Contract Expired,2013.0,Temporary Part-time,False,False,False,False,False,False,Female,21-25,Less than 1 year,dete
+683,Retirement,2014.0,Permanent Part-time,False,False,False,False,False,True,Female,51-55,More than 20 years,dete
+686,Resignation,2013.0,Permanent Full-time,False,False,True,False,False,False,Female,46-50,7-10,dete
+687,Resignation,2014.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+689,Resignation,2013.0,Permanent Part-time,True,False,False,False,False,False,Female,46-50,Less than 1 year,dete
+690,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+692,Resignation,2014.0,Permanent Full-time,False,True,False,False,False,False,Female,31-35,7-10,dete
+693,Resignation,2014.0,Permanent Full-time,False,True,False,False,False,False,Female,36-40,11-20,dete
+694,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,21-25,1-2,dete
+695,Resignation,2014.0,Permanent Full-time,False,False,False,False,False,False,Male,41-45,3-4,dete
+697,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,1-2,dete
+698,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,26-30,5-6,dete
+699,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+700,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,3-4,dete
+702,Resignation,2013.0,Contract/casual,True,False,False,False,False,False,Male,21-25,5-6,dete
+703,Resignation,2013.0,Permanent Part-time,False,True,False,False,False,False,Female,46-50,More than 20 years,dete
+704,Other,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+705,Resignation,2013.0,Permanent Full-time,False,False,True,False,False,False,Female,51-55,Less than 1 year,dete
+707,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+708,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+709,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,41-45,5-6,dete
+712,Other,2013.0,Permanent Full-time,False,False,False,False,True,False,Female,56 or older,More than 20 years,dete
+713,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+715,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+716,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+717,Contract Expired,2013.0,Temporary Part-time,False,False,False,False,False,False,Female,36-40,3-4,dete
+718,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+719,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+721,Contract Expired,2013.0,Contract/casual,False,False,True,False,False,False,Male,26-30,Less than 1 year,dete
+722,Contract Expired,2013.0,Temporary Full-time,False,False,False,False,False,False,Male,31-35,Less than 1 year,dete
+723,Contract Expired,2013.0,Contract/casual,False,True,False,False,False,False,Male,21-25,Less than 1 year,dete
+724,Contract Expired,2013.0,Contract/casual,False,False,False,False,False,False,Male,51-55,Less than 1 year,dete
+725,Contract Expired,2013.0,Contract/casual,False,False,False,False,False,False,Male,31-35,Less than 1 year,dete
+728,Resignation,2014.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+729,Resignation,2014.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+730,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+732,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,46-50,11-20,dete
+733,Resignation,2014.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+734,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+736,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+737,Resignation,2013.0,Permanent Full-time,False,False,False,False,True,True,Female,56 or older,7-10,dete
+738,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,11-20,dete
+739,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,True,Male,56 or older,11-20,dete
+740,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,11-20,dete
+743,Contract Expired,2014.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+744,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,11-20,dete
+745,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+746,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,41-45,More than 20 years,dete
+748,Retirement,2014.0,Permanent Full-time,False,False,False,False,True,False,Female,56 or older,11-20,dete
+749,Resignation,2014.0,Permanent Full-time,False,False,False,False,True,False,Female,41-45,5-6,dete
+750,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+752,Retirement,2014.0,Temporary Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+753,Resignation,2013.0,Permanent Part-time,False,False,False,True,False,False,Male,56 or older,7-10,dete
+754,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,46-50,11-20,dete
+755,Resignation,2013.0,Permanent Full-time,False,False,False,True,False,True,Female,31-35,7-10,dete
+757,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,1-2,dete
+758,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+759,Retirement,2014.0,Permanent Full-time,False,False,False,True,False,False,Male,56 or older,More than 20 years,dete
+760,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+761,Retirement,2013.0,Permanent Part-time,False,False,False,True,False,False,Female,51-55,More than 20 years,dete
+764,Resignation,2006.0,Permanent Part-time,False,True,False,False,False,False,Female,41-45,Less than 1 year,dete
+765,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+767,Retirement,2014.0,Permanent Full-time,False,False,False,True,False,False,Male,51-55,More than 20 years,dete
+768,Resignation,2014.0,Permanent Full-time,False,True,False,False,False,False,Male,26-30,7-10,dete
+769,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+770,Retirement,2014.0,Permanent Full-time,False,False,False,True,False,True,Male,56 or older,More than 20 years,dete
+771,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,46-50,5-6,dete
+773,Resignation,2014.0,Permanent Full-time,False,True,False,False,False,False,Male,36-40,11-20,dete
+774,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+780,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+781,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+782,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,11-20,dete
+783,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+784,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,dete
+785,Contract Expired,2013.0,Temporary Part-time,False,False,False,False,False,False,Female,56 or older,Less than 1 year,dete
+786,Resignation,2013.0,Permanent Full-time,False,True,False,True,False,False,Female,21-25,Less than 1 year,dete
+787,Retirement,2014.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+788,Resignation,2014.0,Permanent Full-time,False,True,False,True,False,False,Female,41-45,11-20,dete
+789,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,dete
+791,Resignation,2014.0,Permanent Part-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+792,Resignation,2014.0,Permanent Full-time,False,False,False,False,False,False,Male,36-40,5-6,dete
+795,Retirement,2013.0,Temporary Part-time,False,False,False,False,False,True,Male,56 or older,7-10,dete
+802,Other,2014.0,Permanent Full-time,False,False,False,False,False,True,Female,21-25,3-4,dete
+803,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,dete
+805,Resignation,2014.0,Permanent Full-time,False,True,False,False,False,False,Female,46-50,7-10,dete
+806,Resignation,2014.0,Permanent Part-time,False,True,False,False,False,False,Female,26-30,5-6,dete
+808,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,7-10,dete
+809,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,7-10,dete
+810,Resignation,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,26-30,3-4,dete
+811,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,More than 20 years,dete
+813,Contract Expired,2013.0,Temporary Full-time,False,False,True,False,False,False,Female,41-45,5-6,dete
+814,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,11-20,dete
+815,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,dete
+817,Resignation,2014.0,Permanent Full-time,False,True,False,False,False,False,Male,21-25,1-2,dete
+818,Resignation,2014.0,Permanent Full-time,False,False,False,False,False,False,Female,21-25,1-2,dete
+819,Retirement,2014.0,Permanent Part-time,False,False,False,False,True,True,Female,56 or older,More than 20 years,dete
+820,Retirement,2014.0,Permanent Full-time,False,False,False,False,False,False,Male,51-55,More than 20 years,dete
+821,Resignation,2014.0,Permanent Full-time,False,False,False,False,True,False,Female,31-35,5-6,dete
+822,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Female,41-45,11-20,dete
+634133009996094000,Contract Expired,2010.0,Temporary Full-time,True,True,True,True,True,True,Female,26-30,1-2,tafe
+634146578511788000,Resignation,2010.0,Permanent Full-time,False,True,False,False,False,False,Male,41-45,3-4,tafe
+634147506906311000,Resignation,2010.0,Contract/casual,False,False,False,False,False,False,Female,56 or older,7-10,tafe
+634152007975694000,Resignation,2010.0,Temporary Full-time,False,True,False,False,True,False,Male,20 or younger,3-4,tafe
+634153745310374000,Resignation,2010.0,Permanent Full-time,False,False,False,False,False,False,Male,46-50,3-4,tafe
+634157899735969000,Resignation,2009.0,Temporary Full-time,False,False,False,False,False,False,Female,36-40,3-4,tafe
+634158812168312000,Resignation,2010.0,Permanent Full-time,True,False,False,False,False,False,Female,21-25,1-2,tafe
+634158825838625000,Resignation,2010.0,Temporary Part-time,True,False,False,False,False,False,Female,41-45,Less than 1 year,tafe
+634171926251752000,Retrenchment/ Redundancy,2010.0,Permanent Part-time,True,True,True,True,True,True,Male,56 or older,11-20,tafe
+634171929735346000,Retrenchment/ Redundancy,2010.0,Permanent Full-time,True,True,True,True,True,True,Male,51-55,3-4,tafe
+634172522831440000,Resignation,2010.0,Temporary Full-time,False,True,False,False,False,False,Female,31-35,11-20,tafe
+634172609223344000,Resignation,2010.0,Permanent Part-time,False,True,False,True,False,False,Female,31-35,7-10,tafe
+634176076134409000,Resignation,2010.0,Permanent Part-time,False,False,False,False,False,False,Female,46-50,11-20,tafe
+634177053480062000,Resignation,2010.0,Permanent Full-time,True,False,False,True,False,False,Female,31-35,7-10,tafe
+634184748867652000,Resignation,2010.0,Temporary Full-time,True,False,False,False,False,False,Male,26-30,5-6,tafe
+634190678592028000,Resignation,2010.0,Contract/casual,False,False,False,False,False,False,Female,26-30,Less than 1 year,tafe
+634190743855375000,Resignation,2010.0,Permanent Part-time,False,True,False,False,False,False,Female,31-35,7-10,tafe
+634190913957094000,Contract Expired,2010.0,Temporary Full-time,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634193458894281000,Resignation,2010.0,Temporary Full-time,True,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634199393528500000,Resignation,2010.0,Temporary Full-time,False,True,False,False,False,False,Female,31-35,Less than 1 year,tafe
+634199595826715000,Contract Expired,2010.0,Temporary Full-time,True,True,True,True,True,True,Female,26-30,Less than 1 year,tafe
+634200229589215000,Resignation,2010.0,Temporary Part-time,False,True,False,False,False,False,Female,46-50,Less than 1 year,tafe
+634201997218101000,Retirement,2010.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634205577322164000,Retirement,2010.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634208993864195000,Resignation,2010.0,Temporary Part-time,False,False,False,False,False,False,Female,26-30,Less than 1 year,tafe
+634209003247164000,Resignation,2010.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,11-20,tafe
+634209012525289000,Resignation,2010.0,Permanent Full-time,False,False,False,False,False,False,Male,31-35,3-4,tafe
+634209019387633000,Contract Expired,2010.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634209026016695000,Contract Expired,2010.0,Permanent Full-time,True,True,True,True,True,True,Male,36-40,11-20,tafe
+634209027931539000,Resignation,2010.0,Permanent Full-time,True,True,False,False,False,False,Male,51-55,11-20,tafe
+634209037420601000,Resignation,2010.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634211542757094000,Resignation,2010.0,Permanent Full-time,False,True,False,False,False,False,Male,31-35,Less than 1 year,tafe
+634212412239976000,Transfer,2010.0,Permanent Part-time,True,False,False,True,True,False,Female,31-35,7-10,tafe
+634213196498570000,Resignation,2010.0,Permanent Full-time,False,True,False,False,False,False,Male,56 or older,3-4,tafe
+634214156864906000,Resignation,2010.0,Permanent Full-time,False,True,False,True,False,False,Female,41-45,3-4,tafe
+634218492665219000,Resignation,2010.0,Temporary Full-time,False,True,False,False,False,False,Female,31-35,Less than 1 year,tafe
+634219251646781000,Resignation,2010.0,Temporary Full-time,False,True,False,False,False,False,Female,26-30,3-4,tafe
+634219263224125000,Contract Expired,2010.0,Permanent Full-time,True,True,True,True,True,True,Female,26-30,3-4,tafe
+634219274566469000,Resignation,2010.0,Permanent Full-time,False,False,False,True,False,False,Female,56 or older,3-4,tafe
+634219407445375000,Retirement,2010.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,3-4,tafe
+634219413623344000,Contract Expired,2009.0,Permanent Full-time,True,True,True,True,True,True,Male,26-30,3-4,tafe
+634219425466156000,Contract Expired,2009.0,Permanent Full-time,True,True,True,True,True,True,Female,51-55,11-20,tafe
+634220006275757000,Resignation,2009.0,Permanent Full-time,False,False,False,False,False,False,Male,51-55,3-4,tafe
+634220145175757000,Resignation,2010.0,Permanent Full-time,False,False,True,False,False,False,Male,46-50,11-20,tafe
+634221044292008000,Resignation,2010.0,Permanent Full-time,False,False,False,False,False,False,Female,21-25,Less than 1 year,tafe
+634223513490601000,Resignation,2010.0,Temporary Full-time,False,False,False,False,True,False,Female,31-35,1-2,tafe
+634224469051226000,Contract Expired,2010.0,Temporary Full-time,True,True,True,True,True,True,Female,31-35,Less than 1 year,tafe
+634226171903257000,Resignation,2010.0,Permanent Full-time,False,True,False,False,False,False,Male,51-55,3-4,tafe
+634227157286851000,Transfer,2010.0,Permanent Full-time,False,False,False,True,False,False,Female,51-55,3-4,tafe
+634227185069750000,Resignation,2010.0,Permanent Full-time,True,False,False,False,False,False,Female,36-40,7-10,tafe
+634227207368969000,Resignation,2010.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,5-6,tafe
+634227222513344000,Contract Expired,2010.0,Contract/casual,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634231466668883000,Resignation,2010.0,Temporary Full-time,False,False,False,True,False,False,Female,20 or younger,Less than 1 year,tafe
+634235863003594000,Transfer,2010.0,Temporary Full-time,True,False,False,False,False,False,Female,51-55,3-4,tafe
+634238426001094000,Retrenchment/ Redundancy,2010.0,Temporary Full-time,True,True,True,True,True,True,Female,51-55,1-2,tafe
+634239303982500000,Transfer,2010.0,Temporary Full-time,False,False,False,False,False,True,Female,31-35,1-2,tafe
+634241795347656000,Resignation,2010.0,Contract/casual,False,False,False,True,False,False,Male,41-45,Less than 1 year,tafe
+634243628858726000,Resignation,2010.0,Permanent Full-time,False,False,False,False,False,False,Female,46-50,7-10,tafe
+634243664081406000,Resignation,2010.0,Temporary Part-time,False,False,False,False,True,False,Male,41-45,5-6,tafe
+634245133689063000,Resignation,2010.0,Permanent Full-time,False,False,False,False,False,False,Female,41-45,5-6,tafe
+634250266309976000,Contract Expired,2010.0,Contract/casual,True,True,True,True,True,True,Female,20 or younger,Less than 1 year,tafe
+634250409172945000,Resignation,2010.0,Contract/casual,False,False,False,False,True,False,Female,56 or older,3-4,tafe
+634251116016226000,Resignation,2010.0,Permanent Full-time,True,False,False,False,False,False,Female,26-30,7-10,tafe
+634251290130132000,Resignation,2010.0,Permanent Part-time,False,True,True,True,False,True,Female,41-45,3-4,tafe
+634259752467320000,Resignation,2010.0,Contract/casual,False,True,False,False,False,False,Female,31-35,Less than 1 year,tafe
+634260719918915000,Resignation,2010.0,Temporary Full-time,True,False,False,False,False,False,Female,41-45,Less than 1 year,tafe
+634266938733603000,Resignation,2010.0,Permanent Full-time,True,False,False,False,False,False,Female,31-35,11-20,tafe
+634268423021657000,Contract Expired,2010.0,Contract/casual,True,True,True,True,True,True,Male,51-55,Less than 1 year,tafe
+634268446707283000,Resignation,2010.0,Temporary Part-time,False,True,False,True,False,False,Female,31-35,Less than 1 year,tafe
+634269438105095000,Resignation,2010.0,Contract/casual,False,False,False,True,False,False,Male,21-25,1-2,tafe
+634272910039626000,Retirement,2010.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634273756721501000,Resignation,2011.0,Permanent Full-time,True,False,False,False,False,False,Female,46-50,5-6,tafe
+634275489048845000,Resignation,2010.0,Temporary Full-time,False,False,True,True,True,False,Female,36-40,Less than 1 year,tafe
+634281400568746000,Resignation,2010.0,Permanent Full-time,False,True,False,False,False,False,Male,41-45,3-4,tafe
+634281450090309000,Termination,2010.0,Temporary Full-time,True,True,True,True,True,True,Female,51-55,1-2,tafe
+634284989401715000,Resignation,2010.0,Contract/casual,False,True,False,False,False,False,Male,36-40,Less than 1 year,tafe
+634285674608023000,Contract Expired,2010.0,Temporary Full-time,True,True,True,True,True,True,Male,41-45,1-2,tafe
+634285909851304000,Resignation,2011.0,Temporary Full-time,True,False,False,False,False,False,Female,26-30,Less than 1 year,tafe
+634298884567184000,Resignation,2011.0,Permanent Full-time,False,True,False,True,False,False,Female,26-30,7-10,tafe
+634304735958746000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Male,21-25,Less than 1 year,tafe
+634309981362554000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,11-20,tafe
+634310121282710000,Contract Expired,2011.0,Temporary Part-time,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634310942921246000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Male,41-45,11-20,tafe
+634314358367965000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,31-35,Less than 1 year,tafe
+634315046486772000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Female,36-40,1-2,tafe
+634316886387496000,Resignation,2011.0,Permanent Full-time,False,True,False,False,True,False,Male,46-50,3-4,tafe
+634317688380679000,Resignation,2011.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,3-4,tafe
+634317845042866000,Transfer,2011.0,Permanent Full-time,False,False,False,False,True,False,Female,56 or older,5-6,tafe
+634322927651559000,Resignation,2011.0,Temporary Full-time,False,False,False,True,False,False,Male,51-55,Less than 1 year,tafe
+634323115021460000,Resignation,2011.0,Temporary Full-time,False,False,False,True,False,False,Male,51-55,Less than 1 year,tafe
+634323709021402000,Resignation,2011.0,Temporary Full-time,False,False,False,True,False,False,Male,51-55,Less than 1 year,tafe
+634323732465523000,Termination,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,46-50,7-10,tafe
+634323806434371000,Resignation,2011.0,Contract/casual,False,True,False,False,False,False,Female,46-50,3-4,tafe
+634326352243491000,Resignation,2011.0,Temporary Full-time,False,True,False,False,False,False,Female,21-25,1-2,tafe
+634326454148590000,Resignation,2011.0,Temporary Part-time,False,False,False,False,False,True,Female,41-45,1-2,tafe
+634328087765991000,Resignation,2011.0,Temporary Part-time,False,False,False,False,False,True,Female,51-55,Less than 1 year,tafe
+634328171329844000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,36-40,3-4,tafe
+634328202850835000,Resignation,2011.0,Temporary Full-time,False,False,False,True,False,False,Female,51-55,3-4,tafe
+634329804601719000,Resignation,2011.0,Permanent Full-time,False,True,False,False,False,False,Male,46-50,5-6,tafe
+634329959592554000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,21-25,3-4,tafe
+634333408714687000,Transfer,2011.0,Permanent Full-time,True,False,False,False,False,False,Female,51-55,11-20,tafe
+634335805202554000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,41-45,3-4,tafe
+634340388349585000,Retirement,2011.0,Permanent Full-time,False,False,True,False,False,True,Female,51-55,More than 20 years,tafe
+634340978789585000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Female,31-35,Less than 1 year,tafe
+634344511160937000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634346271723281000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Male,31-35,1-2,tafe
+634346401168125000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Male,31-35,Less than 1 year,tafe
+634352308949688000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634353285189063000,Resignation,2011.0,Temporary Full-time,False,True,False,False,False,False,Female,26-30,Less than 1 year,tafe
+634356555160312000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,Less than 1 year,tafe
+634356560392188000,Resignation,2011.0,Permanent Part-time,False,True,False,False,False,False,Female,36-40,3-4,tafe
+634356641434062000,Resignation,2011.0,Contract/casual,False,False,False,False,False,False,Male,56 or older,Less than 1 year,tafe
+634356731460781000,Resignation,2011.0,Temporary Part-time,False,True,False,False,False,False,Female,21-25,Less than 1 year,tafe
+634358247777344000,Resignation,2011.0,Temporary Full-time,True,False,False,False,False,False,Male,20 or younger,Less than 1 year,tafe
+634358414389688000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,51-55,Less than 1 year,tafe
+634358731384062000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,11-20,tafe
+634360008438438000,Retirement,2011.0,Permanent Full-time,False,False,False,True,False,False,Male,56 or older,More than 20 years,tafe
+634362639709063000,Retirement,2011.0,Permanent Full-time,False,False,False,False,True,True,Female,56 or older,7-10,tafe
+634365142728281000,Resignation,2011.0,Contract/casual,True,False,False,False,False,False,Female,21-25,Less than 1 year,tafe
+634365459611250000,Resignation,2011.0,Temporary Part-time,False,False,False,False,False,False,Female,41-45,Less than 1 year,tafe
+634366032016094000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,20 or younger,Less than 1 year,tafe
+634366171489688000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Female,21-25,1-2,tafe
+634370412543594000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634370483668125000,Resignation,2011.0,Permanent Part-time,False,False,True,True,False,False,Female,51-55,More than 20 years,tafe
+634370606168281000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Female,51-55,11-20,tafe
+634372114428281000,Retirement,2011.0,Permanent Full-time,False,False,False,True,False,False,Male,56 or older,11-20,tafe
+634376433396563000,Resignation,2011.0,Contract/casual,True,False,False,False,False,False,Female,41-45,5-6,tafe
+634377507269688000,Resignation,2011.0,Temporary Part-time,False,False,False,False,False,False,Female,51-55,Less than 1 year,tafe
+634383335357969000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,1-2,tafe
+634388595410156000,Contract Expired,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,36-40,Less than 1 year,tafe
+634388661685000000,Resignation,2011.0,Temporary Full-time,False,True,False,False,False,False,Female,46-50,1-2,tafe
+634389476488906000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,21-25,3-4,tafe
+634395434816250000,Resignation,2011.0,Permanent Part-time,True,False,False,False,False,False,Male,21-25,1-2,tafe
+634395453810469000,Retirement,2011.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634395566956406000,Contract Expired,2011.0,Temporary Part-time,True,True,True,True,True,True,Female,41-45,1-2,tafe
+634399738233281000,Resignation,2011.0,Permanent Part-time,False,False,False,False,False,False,Female,21-25,5-6,tafe
+634407548427969000,Resignation,2011.0,Temporary Part-time,False,False,False,False,False,False,Female,31-35,3-4,tafe
+634411016475156000,Resignation,2011.0,Permanent Full-time,False,True,False,True,False,False,Female,21-25,3-4,tafe
+634412849002344000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,41-45,3-4,tafe
+634413870912500000,Termination,2011.0,Temporary Part-time,True,True,True,True,True,True,Female,56 or older,3-4,tafe
+634417864506406000,Resignation,2011.0,Temporary Full-time,False,False,True,True,False,False,Female,46-50,Less than 1 year,tafe
+634418043788438000,Resignation,2011.0,Temporary Full-time,False,False,False,True,False,False,Female,26-30,1-2,tafe
+634419660420156000,Resignation,2011.0,Temporary Full-time,False,True,False,True,False,False,Male,46-50,1-2,tafe
+634419812329531000,Resignation,2011.0,Permanent Full-time,False,True,False,False,False,False,Male,46-50,1-2,tafe
+634420617024687000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,5-6,tafe
+634423305341562000,Retirement,2011.0,Permanent Part-time,False,False,False,False,True,False,Female,56 or older,11-20,tafe
+634425043787500000,Resignation,2011.0,Contract/casual,False,False,False,False,True,False,Female,46-50,5-6,tafe
+634425831321094000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,21-25,1-2,tafe
+634429978393906000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,41-45,1-2,tafe
+634430196933125000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,36-40,Less than 1 year,tafe
+634431906734219000,Resignation,2011.0,Permanent Full-time,False,True,False,False,False,False,Male,36-40,5-6,tafe
+634436080180469000,Resignation,2011.0,Temporary Full-time,False,False,False,True,False,False,Male,26-30,Less than 1 year,tafe
+634438675485469000,Retirement,2011.0,Permanent Full-time,False,False,False,True,True,False,Female,51-55,More than 20 years,tafe
+634443964450156000,Resignation,2011.0,Contract/casual,False,False,False,False,False,False,Male,41-45,1-2,tafe
+634444676214219000,Resignation,2011.0,Contract/casual,True,False,False,False,False,False,Female,41-45,3-4,tafe
+634450781262969000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,26-30,1-2,tafe
+634454356619531000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,21-25,Less than 1 year,tafe
+634454362346563000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,26-30,3-4,tafe
+634455107975313000,Retirement,2011.0,Temporary Part-time,False,False,False,False,False,True,Female,56 or older,7-10,tafe
+634456033339688000,Resignation,2011.0,Contract/casual,False,False,False,True,False,False,Female,41-45,Less than 1 year,tafe
+634461110095938000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634462838669219000,Resignation,2011.0,Temporary Full-time,True,False,False,False,False,False,Female,31-35,1-2,tafe
+634465408262031000,Resignation,2011.0,Temporary Full-time,False,True,False,True,False,False,Female,21-25,1-2,tafe
+634466325765938000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,36-40,1-2,tafe
+634466334830781000,Contract Expired,2011.0,Temporary Part-time,True,True,True,True,True,True,Female,26-30,Less than 1 year,tafe
+634466338996094000,Resignation,2011.0,Temporary Full-time,False,False,False,False,True,False,Male,41-45,1-2,tafe
+634468063521250000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,46-50,Less than 1 year,tafe
+634468104798125000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,20 or younger,Less than 1 year,tafe
+634468237201562000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Male,51-55,Less than 1 year,tafe
+634469060191250000,Resignation,2011.0,Temporary Full-time,False,True,False,False,False,False,Male,36-40,Less than 1 year,tafe
+634474119730625000,Resignation,2011.0,Contract/casual,False,False,False,False,False,False,Female,21-25,1-2,tafe
+634474960259219000,Retrenchment/ Redundancy,2011.0,Contract/casual,True,True,True,True,True,True,Female,51-55,1-2,tafe
+634475001702969000,Retrenchment/ Redundancy,2011.0,Permanent Part-time,True,True,True,True,True,True,Female,56 or older,7-10,tafe
+634480153857500000,Resignation,2011.0,Temporary Full-time,False,True,False,True,False,False,Female,26-30,1-2,tafe
+634480996232969000,Resignation,2011.0,Temporary Full-time,False,False,False,True,False,False,Female,41-45,11-20,tafe
+634483759524219000,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,3-4,tafe
+634485432981094000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634487078738750000,Resignation,2011.0,Permanent Full-time,False,False,False,False,True,False,Female,46-50,5-6,tafe
+634491780096563000,Retirement,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,56 or older,3-4,tafe
+634492389417187000,Contract Expired,2011.0,Temporary Part-time,True,True,True,True,True,True,Female,36-40,Less than 1 year,tafe
+634492399751406000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Female,36-40,3-4,tafe
+634495664096406000,Resignation,2011.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,3-4,tafe
+634496573562969000,Resignation,2011.0,Temporary Full-time,False,True,False,False,False,False,Female,51-55,1-2,tafe
+634497559461719000,Resignation,2011.0,Contract/casual,False,False,False,False,False,False,Male,31-35,1-2,tafe
+634497651258125000,Termination,2011.0,Contract/casual,True,True,True,True,True,True,Female,51-55,Less than 1 year,tafe
+634498298127969000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,20 or younger,Less than 1 year,tafe
+634508607117812000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,21-25,3-4,tafe
+634509621647969000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,51-55,Less than 1 year,tafe
+634515603225000000,Resignation,2011.0,Temporary Full-time,False,False,True,True,False,False,Female,36-40,1-2,tafe
+634517445885469000,Resignation,2011.0,Permanent Part-time,True,False,False,False,False,False,Female,41-45,11-20,tafe
+634519977362813000,Contract Expired,2011.0,Temporary Part-time,True,True,True,True,True,True,Female,46-50,Less than 1 year,tafe
+634520852160469000,Resignation,2011.0,Temporary Full-time,False,False,False,False,True,False,Female,51-55,Less than 1 year,tafe
+634521642169688000,Resignation,2011.0,Permanent Full-time,False,True,False,True,False,False,Female,21-25,3-4,tafe
+634522371755781000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,36-40,Less than 1 year,tafe
+634525935995156000,Termination,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,20 or younger,Less than 1 year,tafe
+634526057042656000,Resignation,2011.0,Temporary Part-time,False,True,False,False,False,False,Female,41-45,Less than 1 year,tafe
+634527641594062000,Resignation,2011.0,Temporary Full-time,False,False,True,False,False,False,Female,20 or younger,1-2,tafe
+634527818866563000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Female,56 or older,5-6,tafe
+634528575096719000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Male,56 or older,3-4,tafe
+634528748789219000,Contract Expired,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,1-2,tafe
+634529403585000000,Retrenchment/ Redundancy,2011.0,Temporary Full-time,True,True,True,True,True,True,Male,41-45,7-10,tafe
+634535441639531000,Termination,2011.0,Contract/casual,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634540823178594000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634541462557656000,Resignation,2011.0,Temporary Full-time,True,False,False,False,False,False,Female,21-25,3-4,tafe
+634549611075156000,Transfer,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,36-40,1-2,tafe
+634550190071875000,Resignation,2011.0,Temporary Part-time,True,False,False,False,False,False,Female,51-55,1-2,tafe
+634551070180781000,Resignation,2011.0,Permanent Part-time,False,False,True,False,False,False,Female,36-40,5-6,tafe
+634551832315938000,Transfer,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,46-50,3-4,tafe
+634552014788281000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Female,46-50,Less than 1 year,tafe
+634552711776250000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,7-10,tafe
+634552870206250000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,36-40,3-4,tafe
+634552909616094000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,51-55,11-20,tafe
+634553547935261000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,51-55,3-4,tafe
+634553571408906000,Retirement,2011.0,Permanent Full-time,False,False,False,True,False,True,Male,56 or older,More than 20 years,tafe
+634553808149844000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,31-35,Less than 1 year,tafe
+634556211676511000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,11-20,tafe
+634556218132500000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,11-20,tafe
+634556300304062000,Resignation,2011.0,Permanent Full-time,True,False,False,False,False,False,Female,41-45,1-2,tafe
+634556943700261000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,7-10,tafe
+634557007707500000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634557157627136000,Termination,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,5-6,tafe
+634557860472500000,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Male,46-50,11-20,tafe
+634558028009480000,Resignation,2011.0,Temporary Full-time,False,True,False,False,False,False,Male,26-30,1-2,tafe
+634558951400730000,Resignation,2011.0,Permanent Part-time,False,True,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634558972484324000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,51-55,11-20,tafe
+634563904634531000,Resignation,2011.0,Permanent Full-time,False,False,False,False,True,False,Female,56 or older,5-6,tafe
+634563927869375000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634564000928438000,Retirement,2011.0,Permanent Full-time,False,False,True,True,False,False,Female,56 or older,7-10,tafe
+634564018384531000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634564063601250000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,tafe
+634564078365469000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634564089906719000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,11-20,tafe
+634564737601875000,Resignation,2011.0,Temporary Full-time,False,False,False,True,False,False,Male,46-50,Less than 1 year,tafe
+634564781161406000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,41-45,3-4,tafe
+634564786657344000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634564899012031000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634565719506875000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Male,46-50,Less than 1 year,tafe
+634568278370781000,Resignation,2011.0,Permanent Full-time,False,False,False,True,False,False,Male,51-55,More than 20 years,tafe
+634568317773125000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634568388536875000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634568471579063000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634570010768125000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,51-55,7-10,tafe
+634570247249322000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634570821134531000,Transfer,2011.0,Temporary Full-time,True,False,False,False,False,False,Female,26-30,Less than 1 year,tafe
+634570842998906000,Resignation,2011.0,Permanent Full-time,False,False,True,True,False,False,Female,46-50,5-6,tafe
+634570881452188000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634574339025156000,Resignation,2011.0,Permanent Full-time,False,False,False,True,False,False,Male,51-55,More than 20 years,tafe
+634574528552031000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634575147671875000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,11-20,tafe
+634575160731250000,Resignation,2011.0,Permanent Full-time,False,False,False,False,True,False,Male,51-55,11-20,tafe
+634575365172344000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,11-20,tafe
+634575412792500000,Resignation,2011.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634575998028125000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634576020012813000,Resignation,2011.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634576068194844000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,51-55,11-20,tafe
+634576230941875000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Male,56 or older,1-2,tafe
+634576957824062000,Resignation,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634577056474375000,Resignation,2011.0,Permanent Full-time,True,False,False,False,False,False,Female,21-25,Less than 1 year,tafe
+634577068502656000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,3-4,tafe
+634577125839844000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634577814504531000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634577945776563000,Resignation,2011.0,Contract/casual,False,False,False,False,False,False,Female,51-55,3-4,tafe
+634577978929375000,Resignation,2011.0,Temporary Part-time,False,False,False,False,False,False,Female,31-35,3-4,tafe
+634580376657969000,Retrenchment/ Redundancy,2011.0,Permanent Part-time,True,True,True,True,True,True,Male,41-45,7-10,tafe
+634580402580937000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,11-20,tafe
+634580584676406000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634581174116250000,Resignation,2011.0,Permanent Full-time,False,False,True,True,False,False,Male,51-55,More than 20 years,tafe
+634581193524375000,Retirement,2011.0,Permanent Full-time,False,True,False,True,False,False,Male,46-50,11-20,tafe
+634581200570937000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634581219297344000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,11-20,tafe
+634581227530000000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,7-10,tafe
+634581240039844000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,51-55,More than 20 years,tafe
+634581287875000000,Retirement,2011.0,Permanent Part-time,False,False,False,True,False,False,Female,56 or older,11-20,tafe
+634581374353750000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634581382832188000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634581395871562000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634582037492969000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,36-40,Less than 1 year,tafe
+634582074204062000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,26-30,Less than 1 year,tafe
+634582107325625000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634582121700937000,Retrenchment/ Redundancy,2011.0,Permanent Part-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634582155813125000,Resignation,2011.0,Temporary Part-time,False,False,False,False,False,False,Female,46-50,1-2,tafe
+634582239753594000,Retrenchment/ Redundancy,2011.0,Permanent Part-time,True,True,True,True,True,True,Female,51-55,More than 20 years,tafe
+634582296244062000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634582313571250000,Retrenchment/ Redundancy,2011.0,Permanent Part-time,True,True,True,True,True,True,Female,41-45,11-20,tafe
+634583031748750000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,51-55,5-6,tafe
+634583077875781000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634583118693437000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634583146836094000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,More than 20 years,tafe
+634583178702344000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,7-10,tafe
+634583834033437000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634583841789688000,Contract Expired,2011.0,Contract/casual,True,True,True,True,True,True,Female,36-40,Less than 1 year,tafe
+634583953717969000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634583967086406000,Retrenchment/ Redundancy,2011.0,Permanent Part-time,True,True,True,True,True,True,Female,31-35,5-6,tafe
+634583968718906000,Contract Expired,2011.0,Temporary Part-time,True,True,True,True,True,True,Female,56 or older,3-4,tafe
+634584008886406000,Transfer,2011.0,Temporary Full-time,True,False,False,True,False,False,Male,21-25,1-2,tafe
+634586368436563000,Retirement,2011.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634587255819219000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,51-55,More than 20 years,tafe
+634587282300781000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,51-55,11-20,tafe
+634587326853281000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634587358750312000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,3-4,tafe
+634587368215469000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,46-50,11-20,tafe
+634587439648750000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634588118119375000,Retrenchment/ Redundancy,2011.0,Permanent Part-time,True,True,True,True,True,True,Female,41-45,11-20,tafe
+634589004859375000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,51-55,11-20,tafe
+634589056926875000,Retirement,2011.0,Permanent Full-time,False,False,False,False,False,False,Male,51-55,More than 20 years,tafe
+634589124148906000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,5-6,tafe
+634589153179219000,Resignation,2011.0,Contract/casual,False,False,False,False,False,False,Female,51-55,Less than 1 year,tafe
+634589971216563000,Retrenchment/ Redundancy,2011.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634592549493281000,Resignation,2011.0,Temporary Part-time,False,False,False,False,False,False,Female,46-50,3-4,tafe
+634593386107187000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,False,Female,41-45,1-2,tafe
+634595096448594000,Retirement,2011.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,7-10,tafe
+634595867098906000,Resignation,2011.0,Temporary Full-time,False,True,False,False,False,False,Female,41-45,3-4,tafe
+634596021056875000,Contract Expired,2011.0,Temporary Full-time,True,True,True,True,True,True,Female,26-30,Less than 1 year,tafe
+634598712269375000,Contract Expired,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,46-50,Less than 1 year,tafe
+634599352590156000,Contract Expired,2011.0,Temporary Part-time,True,True,True,True,True,True,Female,51-55,3-4,tafe
+634600207124687000,Contract Expired,2011.0,Temporary Part-time,True,True,True,True,True,True,Female,41-45,3-4,tafe
+634600285342656000,Resignation,2011.0,Temporary Full-time,False,False,False,False,False,True,Female,41-45,Less than 1 year,tafe
+634601227926094000,Transfer,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,31-35,3-4,tafe
+634612373906875000,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634617650635469000,Resignation,2012.0,Permanent Full-time,False,False,False,False,True,False,Male,41-45,3-4,tafe
+634619453818281000,Contract Expired,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,31-35,Less than 1 year,tafe
+634620112502188000,Transfer,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,51-55,Less than 1 year,tafe
+634620134299688000,Resignation,2012.0,Temporary Full-time,True,False,False,False,True,False,Female,36-40,5-6,tafe
+634623528068438000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,20 or younger,Less than 1 year,tafe
+634623599234844000,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,11-20,tafe
+634625548923437000,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,11-20,tafe
+634628700820312000,Contract Expired,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,41-45,1-2,tafe
+634634833429063000,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,31-35,1-2,tafe
+634635009354531000,Resignation,2012.0,Temporary Part-time,False,True,False,False,False,False,Female,31-35,Less than 1 year,tafe
+634635670462188000,Termination,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634638198687656000,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Male,36-40,7-10,tafe
+634638266961250000,Resignation,2012.0,Temporary Full-time,True,False,False,True,False,False,Male,41-45,1-2,tafe
+634638274154219000,Resignation,2012.0,Temporary Full-time,True,True,False,False,False,False,Female,26-30,1-2,tafe
+634638401683906000,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,11-20,tafe
+634640883155625000,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634647786128438000,Termination,2012.0,Contract/casual,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634648744738906000,Resignation,2012.0,Temporary Full-time,True,False,True,False,False,False,Female,51-55,1-2,tafe
+634648747047187000,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Male,51-55,11-20,tafe
+634650545650312000,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634653126293281000,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,26-30,7-10,tafe
+634654936843281000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Male,41-45,5-6,tafe
+634662477490156000,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Female,31-35,Less than 1 year,tafe
+634665151952656000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,51-55,7-10,tafe
+634665190018906000,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,5-6,tafe
+634666854789531000,Resignation,2012.0,Permanent Full-time,True,False,False,False,False,False,Female,41-45,11-20,tafe
+634667551458125000,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634668611537031000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,31-35,3-4,tafe
+634668639377500000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,26-30,Less than 1 year,tafe
+634671038100781000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,31-35,Less than 1 year,tafe
+634671263031094000,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,26-30,5-6,tafe
+634671297286719000,Resignation,2012.0,Contract/casual,False,False,False,False,False,False,Female,51-55,1-2,tafe
+634674515660156000,Resignation,2012.0,Permanent Full-time,False,True,False,True,False,False,Male,36-40,11-20,tafe
+634679850935469000,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634683356744531000,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,20 or younger,3-4,tafe
+634683991923437000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Male,56 or older,Less than 1 year,tafe
+634684858305469000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,51-55,3-4,tafe
+634685808272500000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634685820372813000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,36-40,Less than 1 year,tafe
+634686574706563000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,36-40,Less than 1 year,tafe
+634686807219219000,Termination,2012.0,Contract/casual,True,True,True,True,True,True,Female,26-30,Less than 1 year,tafe
+634689222723750000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,46-50,1-2,tafe
+634689360748125000,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634691779624687000,Resignation,2012.0,Temporary Full-time,False,False,False,False,True,False,Female,21-25,1-2,tafe
+634691969682969000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Male,20 or younger,1-2,tafe
+634696179014844000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,26-30,7-10,tafe
+634697120680156000,Termination,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,26-30,3-4,tafe
+634697816674062000,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,26-30,Less than 1 year,tafe
+634698719508125000,Retrenchment/ Redundancy,2012.0,Contract/casual,True,True,True,True,True,True,Female,21-25,3-4,tafe
+634702358502500000,Resignation,2011.0,Permanent Full-time,False,False,True,False,True,False,Male,36-40,3-4,tafe
+634702366178594000,Resignation,2011.0,Permanent Full-time,False,True,True,False,False,False,Male,31-35,5-6,tafe
+634703091309531000,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,True,Male,56 or older,More than 20 years,tafe
+634704871846406000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,31-35,Less than 1 year,tafe
+634704924682031000,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,11-20,tafe
+634707564443167000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,46-50,Less than 1 year,tafe
+634713425884844000,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,1-2,tafe
+634715994894531000,Retrenchment/ Redundancy,2012.0,Temporary Full-time,True,True,True,True,True,True,Male,31-35,Less than 1 year,tafe
+634716874887187000,Contract Expired,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,46-50,1-2,tafe
+634722082133437000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,21-25,1-2,tafe
+634722949292074000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,41-45,1-2,tafe
+634722992951406000,Resignation,2012.0,Permanent Full-time,False,True,False,True,False,False,Female,31-35,1-2,tafe
+634729130865938000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,21-25,7-10,tafe
+634731736579172000,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634733451073235000,Contract Expired,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,31-35,Less than 1 year,tafe
+634734330047525000,Transfer,2012.0,Temporary Full-time,True,False,False,False,False,False,Female,36-40,Less than 1 year,tafe
+634735049954641000,Contract Expired,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,46-50,3-4,tafe
+634735216223306000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,51-55,Less than 1 year,tafe
+634741096406900000,Contract Expired,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,46-50,1-2,tafe
+634741133763931000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,41-45,1-2,tafe
+634741152023860000,Transfer,2012.0,Permanent Full-time,True,False,False,False,False,False,Female,41-45,7-10,tafe
+634743600339485000,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634744466673931000,Termination,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,21-25,3-4,tafe
+634744567729869000,Termination,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634745331056829000,Termination,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,31-35,3-4,tafe
+634747238918391000,Transfer,2012.0,Permanent Full-time,True,False,False,False,False,False,Female,51-55,More than 20 years,tafe
+634747251670266000,Contract Expired,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,26-30,Less than 1 year,tafe
+634750612273150000,Resignation,2012.0,Temporary Full-time,True,False,False,False,False,False,Female,46-50,Less than 1 year,tafe
+634753321028079000,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,56 or older,More than 20 years,tafe
+634753384952766000,Resignation,2012.0,Temporary Full-time,True,False,False,False,False,False,Female,51-55,Less than 1 year,tafe
+634757720169172000,Termination,2012.0,Temporary Part-time,True,True,True,True,True,True,Male,46-50,1-2,tafe
+634758293915110000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Male,36-40,Less than 1 year,tafe
+634758331076119000,Termination,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,31-35,Less than 1 year,tafe
+634759279560735000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,41-45,1-2,tafe
+634760046003775000,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,36-40,5-6,tafe
+634761898333619000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,26-30,Less than 1 year,tafe
+634761902772212000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Male,56 or older,11-20,tafe
+634761907884088000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,41-45,1-2,tafe
+634761952688281000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Male,41-45,1-2,tafe
+634761961458594000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634761977288594000,Contract Expired,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,46-50,Less than 1 year,tafe
+634762562611094000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Male,56 or older,1-2,tafe
+634762639225000000,Termination,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,41-45,5-6,tafe
+634762651950963000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,56 or older,Less than 1 year,tafe
+634762652611406000,Termination,2012.0,Contract/casual,True,True,True,True,True,True,Female,56 or older,Less than 1 year,tafe
+634762679684244000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,11-20,tafe
+634762760512656000,Contract Expired,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,46-50,3-4,tafe
+634763621955806000,Contract Expired,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,31-35,1-2,tafe
+634763694072500000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Male,56 or older,1-2,tafe
+634763735587969000,Resignation,2012.0,Contract/casual,False,True,False,False,False,False,Female,31-35,Less than 1 year,tafe
+634764550248750000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,41-45,1-2,tafe
+634764565809556000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,26-30,Less than 1 year,tafe
+634765328565337000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,21-25,Less than 1 year,tafe
+634765334307187000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,36-40,Less than 1 year,tafe
+634765399956275000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Male,46-50,3-4,tafe
+634765421370181000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Male,56 or older,7-10,tafe
+634768690087369000,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634774030826094000,Resignation,2012.0,Temporary Part-time,False,True,False,False,False,False,Female,46-50,Less than 1 year,tafe
+634774048206094000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Male,31-35,Less than 1 year,tafe
+634774723180937000,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Male,46-50,11-20,tafe
+634775905600156000,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Male,36-40,Less than 1 year,tafe
+634776478226875000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,21-25,1-2,tafe
+634779998192656000,Resignation,2012.0,Temporary Full-time,False,False,False,True,False,False,Female,36-40,1-2,tafe
+634781625247656000,Resignation,2012.0,Temporary Full-time,True,False,False,False,False,False,Female,21-25,Less than 1 year,tafe
+634781649658281000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,31-35,Less than 1 year,tafe
+634781660507187000,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634781843688125000,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,True,Female,51-55,5-6,tafe
+634786164810312000,Retrenchment/ Redundancy,2012.0,Contract/casual,True,True,True,True,True,True,Female,51-55,1-2,tafe
+634786182825625000,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Female,21-25,1-2,tafe
+634786910427969000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,41-45,11-20,tafe
+634787730041250000,Transfer,2012.0,Temporary Full-time,True,False,False,False,False,False,Female,26-30,Less than 1 year,tafe
+634788542900625000,Resignation,2012.0,Temporary Full-time,False,False,False,False,True,False,Male,31-35,1-2,tafe
+634789421680312000,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,41-45,5-6,tafe
+634792964190156000,Transfer,2012.0,Permanent Full-time,True,False,False,False,False,False,Female,51-55,More than 20 years,tafe
+634793871139219000,Resignation,2012.0,Contract/casual,False,False,False,False,False,False,Female,21-25,3-4,tafe
+634794639635781000,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Female,21-25,Less than 1 year,tafe
+634794857718438000,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,1-2,tafe
+634799770843437000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,True,Female,46-50,1-2,tafe
+634800762016250000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,26-30,3-4,tafe
+634806706577344000,Retirement,2012.0,Permanent Full-time,False,False,False,True,False,False,Male,56 or older,More than 20 years,tafe
+634807637421719000,Resignation,2012.0,Permanent Full-time,False,False,True,True,False,False,Female,46-50,7-10,tafe
+634810344600000000,Retirement,2012.0,Permanent Full-time,False,False,False,False,False,True,Female,56 or older,11-20,tafe
+634811063824844000,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Male,41-45,Less than 1 year,tafe
+634811069432813000,Transfer,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,26-30,3-4,tafe
+634812805553281000,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,21-25,1-2,tafe
+634813581041094000,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Female,26-30,1-2,tafe
+634816502884375000,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Male,36-40,1-2,tafe
+634817208663750000,Resignation,2012.0,Temporary Full-time,False,True,False,True,False,False,Female,21-25,1-2,tafe
+634819687984062000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,More than 20 years,tafe
+634819735079219000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,26-30,Less than 1 year,tafe
+634823973840625000,Resignation,2012.0,Contract/casual,False,True,False,False,False,False,Male,21-25,1-2,tafe
+634825003759375000,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,31-35,3-4,tafe
+634825079177500000,Resignation,2012.0,Temporary Full-time,False,False,False,True,False,True,Female,20 or younger,3-4,tafe
+634825691015156000,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Male,51-55,1-2,tafe
+634831756059375000,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Male,56 or older,3-4,tafe
+634834298665156000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,36-40,Less than 1 year,tafe
+634837810948906000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,11-20,tafe
+634837957418750000,Resignation,2012.0,Permanent Full-time,False,True,False,True,False,False,Female,26-30,3-4,tafe
+634837984851406000,Resignation,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,56 or older,3-4,tafe
+634837985192031000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,31-35,11-20,tafe
+634841254135625000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,21-25,1-2,tafe
+634843849052500000,Resignation,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,36-40,11-20,tafe
+634843856027656000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Female,56 or older,Less than 1 year,tafe
+634847509224219000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634849101152813000,Resignation,2012.0,Temporary Part-time,False,True,False,False,False,False,Female,41-45,1-2,tafe
+634849850334844000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,5-6,tafe
+634852503880156000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634852685801719000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Male,21-25,1-2,tafe
+634854303307656000,Retirement,2012.0,Contract/casual,False,False,False,False,False,False,Male,56 or older,More than 20 years,tafe
+634854316269063000,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Male,46-50,Less than 1 year,tafe
+634854399572500000,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,5-6,tafe
+634858682290312000,Retirement,2012.0,Permanent Part-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634860279552344000,Resignation,2012.0,Permanent Full-time,False,False,False,False,True,False,Male,51-55,7-10,tafe
+634860371426719000,Retrenchment/ Redundancy,2010.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634862107110312000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,41-45,5-6,tafe
+634865520912813000,Retrenchment/ Redundancy,2012.0,Permanent Part-time,True,True,True,True,True,True,Female,56 or older,More than 20 years,tafe
+634866378202813000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+634866546778594000,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,True,Male,36-40,7-10,tafe
+634867257481719000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,31-35,Less than 1 year,tafe
+634871701250312000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,41-45,Less than 1 year,tafe
+634873325422656000,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Female,36-40,7-10,tafe
+634874537800469000,Resignation,2012.0,Temporary Full-time,False,False,True,False,False,False,Female,36-40,Less than 1 year,tafe
+634878466942188000,Resignation,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,26-30,1-2,tafe
+634880266652344000,Resignation,2012.0,Temporary Full-time,False,False,False,False,False,False,Female,31-35,Less than 1 year,tafe
+634883154717187000,Termination,2012.0,Contract/casual,True,True,True,True,True,True,Female,20 or younger,7-10,tafe
+634883666203906000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,51-55,7-10,tafe
+634883717968750000,Retrenchment/ Redundancy,2012.0,Permanent Part-time,True,True,True,True,True,True,Male,20 or younger,11-20,tafe
+634883750980156000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,41-45,Less than 1 year,tafe
+634884416485938000,Resignation,2012.0,Permanent Full-time,False,False,False,True,False,False,Female,46-50,5-6,tafe
+634885367273906000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634886158346250000,Resignation,2012.0,Temporary Full-time,False,False,False,True,False,False,Male,31-35,3-4,tafe
+634888802240000000,Resignation,2012.0,Temporary Full-time,True,False,False,True,False,False,Female,56 or older,3-4,tafe
+634889766912500000,Transfer,2013.0,Permanent Full-time,False,True,False,False,False,False,Male,46-50,11-20,tafe
+634889851025469000,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,36-40,7-10,tafe
+634890472281094000,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Male,46-50,7-10,tafe
+634890551848750000,Resignation,2012.0,Temporary Full-time,False,True,False,False,False,False,Male,41-45,1-2,tafe
+634891433962031000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,36-40,Less than 1 year,tafe
+634892336760312000,Resignation,2012.0,Temporary Full-time,False,True,False,True,False,False,Female,21-25,3-4,tafe
+634892361974219000,Resignation,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,31-35,1-2,tafe
+634892367870937000,Retrenchment/ Redundancy,2012.0,Permanent Part-time,True,True,True,True,True,True,Female,56 or older,More than 20 years,tafe
+634896725094062000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,51-55,11-20,tafe
+634896807785938000,Retrenchment/ Redundancy,2012.0,Permanent Part-time,True,True,True,True,True,True,Male,51-55,11-20,tafe
+634897430468750000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,More than 20 years,tafe
+634897699783281000,Contract Expired,2012.0,Temporary Full-time,True,True,True,True,True,True,Male,56 or older,1-2,tafe
+634902770430459000,Resignation,2013.0,Temporary Full-time,False,True,False,False,False,False,Male,41-45,1-2,tafe
+634903651349219000,Resignation,2012.0,Permanent Part-time,False,False,False,False,False,False,Male,51-55,3-4,tafe
+634907090363594000,Contract Expired,2012.0,Contract/casual,True,True,True,True,True,True,Female,36-40,Less than 1 year,tafe
+634907124987812000,Resignation,2012.0,Permanent Full-time,False,True,False,True,False,False,Female,51-55,7-10,tafe
+634907791983427000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,11-20,tafe
+634907915528428000,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+634907979681875000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,46-50,11-20,tafe
+634908638162969000,Resignation,2012.0,Contract/casual,False,True,True,False,False,False,Female,21-25,3-4,tafe
+634908664012656000,Retirement,2013.0,Permanent Part-time,False,False,False,True,False,False,Female,56 or older,More than 20 years,tafe
+634908792602334000,Transfer,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,36-40,7-10,tafe
+634908806102646000,Retirement,2013.0,Permanent Part-time,False,False,False,False,False,False,Male,56 or older,11-20,tafe
+634908831659365000,Resignation,2012.0,Temporary Part-time,False,False,False,False,False,False,Female,46-50,1-2,tafe
+634909520443750000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634910338362021000,Retrenchment/ Redundancy,2012.0,Permanent Part-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634910521751084000,Retrenchment/ Redundancy,2012.0,Temporary Full-time,True,True,True,True,True,True,Male,31-35,3-4,tafe
+634914735879219000,Retrenchment/ Redundancy,2012.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634932864696524000,Resignation,2012.0,Permanent Full-time,False,True,False,False,False,False,Male,36-40,5-6,tafe
+634933010519531000,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,46-50,7-10,tafe
+634937260824531000,Contract Expired,2012.0,Permanent Part-time,True,True,True,True,True,True,Female,51-55,Less than 1 year,tafe
+634938047980781000,Resignation,2013.0,Contract/casual,False,False,False,False,False,True,Female,41-45,3-4,tafe
+634938094787656000,Resignation,2012.0,Permanent Full-time,False,False,False,False,False,False,Male,41-45,5-6,tafe
+634940601409024000,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Female,56 or older,5-6,tafe
+634940842995156000,Retrenchment/ Redundancy,2013.0,Permanent Full-time,True,True,True,True,True,True,Female,56 or older,11-20,tafe
+634944345534531000,Retrenchment/ Redundancy,2013.0,Permanent Part-time,True,True,True,True,True,True,Male,56 or older,7-10,tafe
+634945048175625000,Resignation,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,41-45,3-4,tafe
+634945136067187000,Resignation,2013.0,Temporary Full-time,True,False,False,False,False,False,Female,36-40,5-6,tafe
+634951129892031000,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,31-35,3-4,tafe
+634951997495625000,Resignation,2013.0,Temporary Full-time,False,True,False,False,False,False,Female,46-50,5-6,tafe
+634958140455899000,Resignation,2013.0,Temporary Full-time,False,True,False,False,False,False,Male,46-50,3-4,tafe
+634964112426563000,Resignation,2013.0,Temporary Full-time,False,True,False,False,False,False,Female,21-25,3-4,tafe
+634969167674375000,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,11-20,tafe
+634970182194493000,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Male,51-55,1-2,tafe
+634973559823868000,Retrenchment/ Redundancy,2013.0,Permanent Full-time,True,True,True,True,True,True,Male,51-55,More than 20 years,tafe
+634975184457305000,Resignation,2013.0,Contract/casual,False,False,False,False,False,False,Female,26-30,Less than 1 year,tafe
+634975203429336000,Resignation,2013.0,Temporary Full-time,False,True,False,False,False,False,Male,20 or younger,Less than 1 year,tafe
+634975260386719000,Retrenchment/ Redundancy,2013.0,Permanent Full-time,True,True,True,True,True,True,Male,51-55,More than 20 years,tafe
+634976314836250000,Resignation,2012.0,Permanent Full-time,False,True,False,True,False,False,Male,46-50,7-10,tafe
+634977079348281000,Resignation,2013.0,Temporary Full-time,True,False,False,False,False,False,Female,46-50,5-6,tafe
+634977844954805000,Contract Expired,2012.0,Temporary Part-time,True,True,True,True,True,True,Female,21-25,Less than 1 year,tafe
+634982066598317000,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Male,51-55,7-10,tafe
+634982246838125000,Retirement,2013.0,Permanent Part-time,False,False,False,False,True,False,Female,56 or older,5-6,tafe
+634985719186563000,Resignation,2013.0,Temporary Full-time,False,False,False,False,False,False,Male,51-55,3-4,tafe
+634988299157536000,Contract Expired,2013.0,Temporary Part-time,True,True,True,True,True,True,Female,46-50,1-2,tafe
+634991666421130000,Resignation,2013.0,Temporary Full-time,False,True,True,True,False,False,Male,36-40,1-2,tafe
+634992694358630000,Resignation,2013.0,Temporary Part-time,False,True,False,False,False,False,Female,26-30,Less than 1 year,tafe
+634992856383005000,Termination,2013.0,Contract/casual,True,True,True,True,True,True,Female,56 or older,5-6,tafe
+634995296716719000,Resignation,2013.0,Temporary Full-time,False,False,True,False,False,False,Female,51-55,Less than 1 year,tafe
+634998528620661000,Resignation,2013.0,Temporary Part-time,False,True,False,False,False,False,Female,46-50,1-2,tafe
+634999429878281000,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,41-45,3-4,tafe
+635000251520036000,Resignation,2013.0,Permanent Full-time,False,True,False,True,False,False,Female,46-50,5-6,tafe
+635000261847849000,Retrenchment/ Redundancy,2013.0,Permanent Full-time,True,True,True,True,True,True,Male,56 or older,More than 20 years,tafe
+635000328156094000,Contract Expired,2013.0,Temporary Full-time,True,True,True,True,True,True,Female,21-25,1-2,tafe
+635004545579724000,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+635005552776094000,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,56 or older,More than 20 years,tafe
+635010751412813000,Retirement,2013.0,Permanent Full-time,False,False,False,False,False,True,Male,56 or older,More than 20 years,tafe
+635010822773594000,Resignation,2013.0,Temporary Full-time,False,False,False,False,False,False,Female,26-30,3-4,tafe
+635012661372849000,Resignation,2013.0,Temporary Full-time,False,False,False,True,False,False,Female,46-50,Less than 1 year,tafe
+635016601672188000,Retrenchment/ Redundancy,2013.0,Temporary Full-time,True,True,True,True,True,True,Male,41-45,1-2,tafe
+635017016857500000,Retrenchment/ Redundancy,2013.0,Temporary Part-time,True,True,True,True,True,True,Female,51-55,Less than 1 year,tafe
+635017508419688000,Resignation,2013.0,Temporary Full-time,False,False,True,True,False,False,Male,51-55,Less than 1 year,tafe
+635019417764844000,Resignation,2013.0,Contract/casual,True,False,False,False,False,False,Female,41-45,1-2,tafe
+635021852425625000,Resignation,2013.0,Temporary Full-time,False,False,False,False,False,False,Female,36-40,Less than 1 year,tafe
+635025280694687000,Resignation,2013.0,Permanent Full-time,False,True,False,False,False,False,Male,51-55,3-4,tafe
+635027942448125000,Resignation,2013.0,Temporary Part-time,False,False,False,False,False,True,Female,56 or older,1-2,tafe
+635030575197812000,Retrenchment/ Redundancy,2013.0,Permanent Full-time,True,True,True,True,True,True,Male,41-45,5-6,tafe
+635031425678438000,Resignation,2013.0,Temporary Full-time,False,False,False,False,False,False,Female,26-30,Less than 1 year,tafe
+635035655232813000,Resignation,2013.0,Permanent Part-time,True,False,False,False,False,False,Female,26-30,Less than 1 year,tafe
+635037423338906000,Resignation,2013.0,Temporary Full-time,False,False,False,False,False,False,Female,41-45,Less than 1 year,tafe
+635037453598125000,Resignation,2013.0,Contract/casual,True,False,False,False,False,False,Male,41-45,3-4,tafe
+635040151398125000,Resignation,2013.0,Temporary Full-time,False,False,False,True,False,False,Female,26-30,1-2,tafe
+635042565856250000,Resignation,2013.0,Temporary Full-time,True,False,False,False,False,False,Female,41-45,5-6,tafe
+635042809083906000,Termination,2013.0,Temporary Full-time,True,True,True,True,True,True,Female,36-40,3-4,tafe
+635047878104375000,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,False,Female,46-50,5-6,tafe
+635047983761250000,Resignation,2013.0,Permanent Full-time,False,False,False,True,False,True,Male,41-45,Less than 1 year,tafe
+635049585605000000,Resignation,2013.0,Permanent Part-time,False,False,False,False,False,True,Female,56 or older,3-4,tafe
+635059949710781000,Resignation,2013.0,Temporary Full-time,False,True,False,False,False,False,Female,26-30,1-2,tafe
+635065277683125000,Contract Expired,2013.0,Temporary Part-time,True,True,True,True,True,True,Female,56 or older,Less than 1 year,tafe
+635065973820625000,Resignation,2013.0,Temporary Full-time,False,True,False,False,False,False,Male,21-25,5-6,tafe
+635066785175197000,Resignation,2013.0,Temporary Full-time,True,False,False,False,False,False,Male,51-55,1-2,tafe
+635070442972541000,Resignation,2013.0,Permanent Full-time,False,False,False,False,False,False,Female,51-55,5-6,tafe
+635071153170979000,Contract Expired,2013.0,Temporary Full-time,True,True,True,True,True,True,Female,41-45,1-2,tafe
+635073030973791000,Resignation,2013.0,Contract/casual,False,False,False,False,False,False,Female,26-30,3-4,tafe
